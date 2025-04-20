@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecom-pwa/static/css/main.e6c13ad2.css",
+    "main.js": "/ecom-pwa/static/js/main.d5b95970.js",
+    "static/js/453.af178710.chunk.js": "/ecom-pwa/static/js/453.af178710.chunk.js",
+    "index.html": "/ecom-pwa/index.html",
+    "main.e6c13ad2.css.map": "/ecom-pwa/static/css/main.e6c13ad2.css.map",
+    "main.d5b95970.js.map": "/ecom-pwa/static/js/main.d5b95970.js.map",
+    "453.af178710.chunk.js.map": "/ecom-pwa/static/js/453.af178710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d5b95970.js"
+  ]
+}
