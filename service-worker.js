@@ -3,11 +3,11 @@ self.addEventListener('install', (e) => {
     e.waitUntil(
       caches.open('ecom-cache').then((cache) => {
         return cache.addAll([
-          '/',
-          '/index.html',
-          '/manifest.json',
-          '/logo192.png',
-          '/logo512.png',
+          '/ecom-pwa/',
+          '/ecom-pwa/index.html',
+          '/ecom-pwa/manifest.json',
+          '/ecom-pwa/logo192.png',
+          '/ecom-pwa/logo512.png',
         ]);
       })
     );
